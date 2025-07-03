@@ -1,1 +1,1 @@
-HTML, CSS and javascript templates.
+Project demonstration video.
